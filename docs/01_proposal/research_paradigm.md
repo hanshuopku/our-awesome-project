@@ -55,3 +55,63 @@
 | 行为遗传学      | 终生至代际     | 基因多态性 × 环境交互 (G×E) | 基因风险仅在逆境下显现        |
 | 社会/文化人类学   | 几十年–千年    | 文化规范、经济方式垂直传递      | 稻麦种植差异塑造集体主义       |
 | 进化生物学      | 万–百万年     | 自然选择、群体选择          | 合作与攻击均衡塑造人类社性      |
+
+
+# A Temporal-Scope Paradigm: From Milliseconds to Megayears  
+An analytical framework from Stanford BIO-150 “Human Behavior in Biological Perspective,” arranging the causes of behavior from short to evolutionary time-scales.
+
+---
+
+### 1. Neuroscience  
+- **Time-scale**: 1 ms – 1 min  
+- **Mechanism**: action potentials → synaptic transmission → fast emotional circuits  
+- **Key take-away**: millisecond-level prefrontal inhibition of the amygdala determines whether the “brake” succeeds.
+
+---
+
+### 2. Neuro-endocrinology  
+- **Time-scale**: minutes – days  
+- **Mechanism**: rhythmic modulation of neural excitability by cortisol, testosterone, etc.  
+- **Key take-away**: hormones do not create behavior; they amplify or suppress pre-existing tendencies.
+
+---
+
+### 3. Molecular / Developmental Neurobiology  
+- **Time-scale**: days – years  
+- **Mechanism**: synaptic plasticity, epigenetic marks  
+- **Key take-away**: chronic stress or early adversity leaves long-term traces via BDNF down-regulation and DNA methylation.
+
+---
+
+### 4. Behavioral Genetics  
+- **Time-scale**: lifetime and across generations  
+- **Mechanism**: gene polymorphisms × environment (G×E)  
+- **Key take-away**: risk alleles such as MAOA or 5-HTTLPR manifest only under adverse environments.
+
+---
+
+### 5. Socio-cultural Anthropology  
+- **Time-scale**: decades – millennia  
+- **Mechanism**: vertical transmission of cultural norms and economic subsistence systems  
+- **Key take-away**: persistent rice-vs-wheat differences in collectivism versus individualism.
+
+---
+
+### 6. Evolutionary Biology  
+- **Time-scale**: 10⁴ – 10⁶ years  
+- **Mechanism**: natural, sexual and group selection  
+- **Key take-away**: the balance between cooperation and aggression shaped the human brain and sociality.
+
+---
+
+### Integrated Conclusion  
+Behavior is the simultaneous product of all six levels. Explanations must span “millisecond spikes” to “megayear evolution”; single-level accounts are incomplete.
+
+| Dominant Field | Time-scale | Core Mechanism | Catch-phrase Keyword |
+|---------------|------------|----------------|----------------------|
+| Neuroscience | 1 ms – 1 min | action potentials, synaptic transmission, fast emotional circuits | prefrontal millisecond inhibition of amygdala |
+| Neuro-endocrinology | minutes – days | hormonal rhythms (cortisol, testosterone) modulate circuits | hormones amplify/suppress existing tendencies |
+| Molecular / Developmental Neurobiology | days – years | synaptic plasticity, epigenetic tagging | stress down-regulates BDNF & methylates long-term traces |
+| Behavioral Genetics | lifetime to inter-generational | gene polymorphism × environment (G×E) | genetic risk emerges only under adversity |
+| Socio-cultural Anthropology | decades – millennia | vertical transmission of culture & economy | rice-vs-wheat cultivation shapes collectivism |
+| Evolutionary Biology | 10⁴ – 10⁶ years | natural, group and sexual selection | cooperation-aggression equilibrium forged human sociality |
