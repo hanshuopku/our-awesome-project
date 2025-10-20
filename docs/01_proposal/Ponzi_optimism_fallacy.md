@@ -10,7 +10,7 @@
 
 # Ponzi Optimism Fallacy in Animal Behaviour
 
-Observers often mistake "long-term persistence" for "system optimality," overlooking delayed隐性 costs — this is the **Ponzi Optimism Fallacy**. Examples:
+Observers often mistake "long-term persistence" for "system optimality," overlooking delayed hidden costs — this is the **Ponzi Optimism Fallacy**. Examples:
 - Altruistic groups appear stable while still awaiting a saddle-crossing tunnel;
 - Females keep choosing bright males, locked in a ZRL trap, not because the signal holds hidden benefits;
 - Grasslands remain ungrazed only because soil-nutrient feedback is still in the mail.
