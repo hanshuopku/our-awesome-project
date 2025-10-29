@@ -9,3 +9,4 @@ Han Shuo
 - do not be satisfied with explanation given by existing theory. actively criticize and give counterexamples.
 - but make sure you fully understands the theory before diving into critics
 - be willing to accept critics yet be willing to take a move
+- hard work can't replace thinking
